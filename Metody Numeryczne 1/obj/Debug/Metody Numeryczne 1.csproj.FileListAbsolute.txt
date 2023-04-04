@@ -1,0 +1,42 @@
+C:\Users\j2001\Desktop\Metody Numeryczne 1\Metody Numeryczne 1\bin\Debug\Metody Numeryczne 1.exe.config
+C:\Users\j2001\Desktop\Metody Numeryczne 1\Metody Numeryczne 1\bin\Debug\Metody Numeryczne 1.exe
+C:\Users\j2001\Desktop\Metody Numeryczne 1\Metody Numeryczne 1\bin\Debug\Metody Numeryczne 1.pdb
+C:\Users\j2001\Desktop\Metody Numeryczne 1\Metody Numeryczne 1\obj\Debug\Metody Numeryczne 1.csproj.AssemblyReference.cache
+C:\Users\j2001\Desktop\Metody Numeryczne 1\Metody Numeryczne 1\obj\Debug\Metody Numeryczne 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\j2001\Desktop\Metody Numeryczne 1\Metody Numeryczne 1\obj\Debug\Metody_Numeryczne_1.Properties.Resources.resources
+C:\Users\j2001\Desktop\Metody Numeryczne 1\Metody Numeryczne 1\obj\Debug\Metody Numeryczne 1.csproj.GenerateResource.cache
+C:\Users\j2001\Desktop\Metody Numeryczne 1\Metody Numeryczne 1\obj\Debug\Metody Numeryczne 1.csproj.CoreCompileInputs.cache
+C:\Users\j2001\Desktop\Metody Numeryczne 1\Metody Numeryczne 1\obj\Debug\Metody Numeryczne 1.exe
+C:\Users\j2001\Desktop\Metody Numeryczne 1\Metody Numeryczne 1\obj\Debug\Metody Numeryczne 1.pdb
+C:\Users\j2001\Desktop\Metody Numeryczne 1\Metody Numeryczne 1\obj\Debug\Metody_Numeryczne_1.Form1.resources
+C:\Users\j2001\Desktop\Metody Numeryczne 1\Metody Numeryczne 1\bin\Debug\BibliotekaNumeryczne.dll
+C:\Users\j2001\Desktop\Metody Numeryczne 1\Metody Numeryczne 1\bin\Debug\BibliotekaNumeryczne.pdb
+C:\Users\j2001\Desktop\Metody Numeryczne 1\Metody Numeryczne 1\obj\Debug\Metody Numeryczne 1.csproj.CopyComplete
+C:\Users\Szwedziak\Desktop\Metody Numeryczne 1\Metody Numeryczne 1\bin\Debug\Metody Numeryczne 1.exe.config
+C:\Users\Szwedziak\Desktop\Metody Numeryczne 1\Metody Numeryczne 1\bin\Debug\Metody Numeryczne 1.exe
+C:\Users\Szwedziak\Desktop\Metody Numeryczne 1\Metody Numeryczne 1\bin\Debug\Metody Numeryczne 1.pdb
+C:\Users\Szwedziak\Desktop\Metody Numeryczne 1\Metody Numeryczne 1\bin\Debug\BibliotekaNumeryczne.dll
+C:\Users\Szwedziak\Desktop\Metody Numeryczne 1\Metody Numeryczne 1\bin\Debug\BibliotekaNumeryczne.pdb
+C:\Users\Szwedziak\Desktop\Metody Numeryczne 1\Metody Numeryczne 1\obj\Debug\Metody Numeryczne 1.csproj.AssemblyReference.cache
+C:\Users\Szwedziak\Desktop\Metody Numeryczne 1\Metody Numeryczne 1\obj\Debug\Metody Numeryczne 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Szwedziak\Desktop\Metody Numeryczne 1\Metody Numeryczne 1\obj\Debug\Metody_Numeryczne_1.Form1.resources
+C:\Users\Szwedziak\Desktop\Metody Numeryczne 1\Metody Numeryczne 1\obj\Debug\Metody_Numeryczne_1.Properties.Resources.resources
+C:\Users\Szwedziak\Desktop\Metody Numeryczne 1\Metody Numeryczne 1\obj\Debug\Metody Numeryczne 1.csproj.GenerateResource.cache
+C:\Users\Szwedziak\Desktop\Metody Numeryczne 1\Metody Numeryczne 1\obj\Debug\Metody Numeryczne 1.csproj.CoreCompileInputs.cache
+C:\Users\Szwedziak\Desktop\Metody Numeryczne 1\Metody Numeryczne 1\obj\Debug\Metody Numeryczne 1.csproj.CopyComplete
+C:\Users\Szwedziak\Desktop\Metody Numeryczne 1\Metody Numeryczne 1\obj\Debug\Metody Numeryczne 1.exe
+C:\Users\Szwedziak\Desktop\Metody Numeryczne 1\Metody Numeryczne 1\obj\Debug\Metody Numeryczne 1.pdb
+C:\Users\dawid\Desktop\studia\sem4\metody numeryczne\task1\Metody Numeryczne 1\Metody Numeryczne 1\obj\Debug\Metody Numeryczne 1.csproj.AssemblyReference.cache
+C:\Users\dawid\Desktop\studia\sem4\metody numeryczne\task1\Metody Numeryczne 1\Metody Numeryczne 1\obj\Debug\Metody Numeryczne 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\dawid\Desktop\studia\sem4\metody numeryczne\task1\Metody Numeryczne 1\Metody Numeryczne 1\obj\Debug\Metody_Numeryczne_1.Form1.resources
+C:\Users\dawid\Desktop\studia\sem4\metody numeryczne\task1\Metody Numeryczne 1\Metody Numeryczne 1\obj\Debug\Metody_Numeryczne_1.Properties.Resources.resources
+C:\Users\dawid\Desktop\studia\sem4\metody numeryczne\task1\Metody Numeryczne 1\Metody Numeryczne 1\obj\Debug\Metody Numeryczne 1.csproj.GenerateResource.cache
+C:\Users\dawid\Desktop\studia\sem4\metody numeryczne\task1\Metody Numeryczne 1\Metody Numeryczne 1\obj\Debug\Metody Numeryczne 1.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\studia\sem4\metody numeryczne\task1\Metody Numeryczne 1\Metody Numeryczne 1\obj\Debug\Metody Numeryczne 1.exe
+C:\Users\dawid\Desktop\studia\sem4\metody numeryczne\task1\Metody Numeryczne 1\Metody Numeryczne 1\obj\Debug\Metody Numeryczne 1.pdb
+C:\Users\dawid\Desktop\studia\sem4\metody numeryczne\task1\Metody Numeryczne 1\Metody Numeryczne 1\bin\Debug\Metody Numeryczne 1.exe.config
+C:\Users\dawid\Desktop\studia\sem4\metody numeryczne\task1\Metody Numeryczne 1\Metody Numeryczne 1\bin\Debug\Metody Numeryczne 1.exe
+C:\Users\dawid\Desktop\studia\sem4\metody numeryczne\task1\Metody Numeryczne 1\Metody Numeryczne 1\bin\Debug\Metody Numeryczne 1.pdb
+C:\Users\dawid\Desktop\studia\sem4\metody numeryczne\task1\Metody Numeryczne 1\Metody Numeryczne 1\bin\Debug\BibliotekaNumeryczne.dll
+C:\Users\dawid\Desktop\studia\sem4\metody numeryczne\task1\Metody Numeryczne 1\Metody Numeryczne 1\bin\Debug\BibliotekaNumeryczne.pdb
+C:\Users\dawid\Desktop\studia\sem4\metody numeryczne\task1\Metody Numeryczne 1\Metody Numeryczne 1\obj\Debug\Metody Numeryczne 1.csproj.CopyComplete

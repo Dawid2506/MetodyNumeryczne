@@ -1,0 +1,12 @@
+C:\Users\j2001\Desktop\Metody Numeryczne 1\BibliotekaNumeryczne\bin\Debug\BibliotekaNumeryczne.dll
+C:\Users\j2001\Desktop\Metody Numeryczne 1\BibliotekaNumeryczne\bin\Debug\BibliotekaNumeryczne.pdb
+C:\Users\j2001\Desktop\Metody Numeryczne 1\BibliotekaNumeryczne\obj\Debug\BibliotekaNumeryczne.csproj.AssemblyReference.cache
+C:\Users\j2001\Desktop\Metody Numeryczne 1\BibliotekaNumeryczne\obj\Debug\BibliotekaNumeryczne.csproj.CoreCompileInputs.cache
+C:\Users\j2001\Desktop\Metody Numeryczne 1\BibliotekaNumeryczne\obj\Debug\BibliotekaNumeryczne.dll
+C:\Users\j2001\Desktop\Metody Numeryczne 1\BibliotekaNumeryczne\obj\Debug\BibliotekaNumeryczne.pdb
+C:\Users\Szwedziak\Desktop\Metody Numeryczne 1\BibliotekaNumeryczne\bin\Debug\BibliotekaNumeryczne.dll
+C:\Users\Szwedziak\Desktop\Metody Numeryczne 1\BibliotekaNumeryczne\bin\Debug\BibliotekaNumeryczne.pdb
+C:\Users\Szwedziak\Desktop\Metody Numeryczne 1\BibliotekaNumeryczne\obj\Debug\BibliotekaNumeryczne.csproj.AssemblyReference.cache
+C:\Users\Szwedziak\Desktop\Metody Numeryczne 1\BibliotekaNumeryczne\obj\Debug\BibliotekaNumeryczne.csproj.CoreCompileInputs.cache
+C:\Users\Szwedziak\Desktop\Metody Numeryczne 1\BibliotekaNumeryczne\obj\Debug\BibliotekaNumeryczne.dll
+C:\Users\Szwedziak\Desktop\Metody Numeryczne 1\BibliotekaNumeryczne\obj\Debug\BibliotekaNumeryczne.pdb
